@@ -18,7 +18,7 @@ d. python ow.py
 
 ### 3. 运行效果
 
-a. 完整演示效果请看：https://www.bilibili.com/video/BV1eh41197pr/ ， 欢迎关注up主，一键三连，带你解锁更多黑科技应用。  
+a. 完整演示效果请看：https://www.bilibili.com/video/BV1eh41197pr/ ， 欢迎关注up主（林雨轩轩），一键三连，带你解锁更多黑科技应用。  
 b. 效果图截图如下。  
    
    
