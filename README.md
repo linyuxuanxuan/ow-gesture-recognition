@@ -1,5 +1,4 @@
-# ow-gesture-recognition
-# 守望先锋体感游戏源码
+# 守望先锋体感游戏源码分享(ow-gesture-recognition)
 
 
 ### 1. 运行步骤  
