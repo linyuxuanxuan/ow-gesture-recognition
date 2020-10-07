@@ -3,7 +3,7 @@
 
 ### 1. 运行步骤  
 ```
-a. clone https://github.com/linyuxuanxuan/ow-gesture-recognition.git  
+a. git clone https://github.com/linyuxuanxuan/ow-gesture-recognition.git  
 b. cd ow-gesture-recognition  
 c. pip install -r requirements.txt  
 d. python ow.py
